@@ -36,15 +36,15 @@
 > **Lightweight Edge Vision with MobileNetV3**  
 > Fine-tuned MobileNetV3 for task-specific embedded vision systems, striking an optimal balance between low latency and inference accuracy.
 
-#### 💻 8-Bit Breadboard Computer
+#### 💻 [8-Bit Breadboard Computer](https://github.com/Isira-Himal-Perera/8-bit-Breadboard-Computer)
 > **Discrete TTL Logic Architecture**  
 > Constructed a functional 8-bit computer from 74LS series TTL gates featuring custom microcoded EEPROM control units and an ALU. Modeled the full architecture in SystemVerilog and verified cycle-accurate execution in Vivado.
 
-#### 📡 5.8 GHz FMCW Radar
+#### 📡 [5.8 GHz FMCW Radar](https://github.com/KavijaK/FMCWRadar)
 > **Distance & Velocity Estimation**  
 > Designed and implemented radar signal processing algorithms to accurately estimate range and Doppler velocity using 5.8 GHz FMCW signals.
 
-#### 📻 SDR Communication System
+#### 📻 [SDR Communication System](https://github.com/Isira-Himal-Perera/sdr-two-way-paging-system)
 > **End-to-End Digital Pipeline**  
 > Implemented a complete digital communication pipeline utilizing Software Defined Radio (SDR) platforms alongside custom DSP blocks.
 
