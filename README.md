@@ -32,7 +32,7 @@
 
 ### 🚀 Key Projects
 
-#### 👁️ Task-Driven Object Detection
+#### 👁️ [Task-Driven Object Detection](https://github.com/DulanaPiti/DVCon)
 > **Lightweight Edge Vision with MobileNetV3**  
 > Fine-tuned MobileNetV3 for task-specific embedded vision systems, striking an optimal balance between low latency and inference accuracy.
 
