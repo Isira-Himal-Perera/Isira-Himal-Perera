@@ -68,8 +68,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Isira-Himal-Perera&show_icons=true&theme=tokyonight&hide_border=true" alt="Himal's GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Isira-Himal-Perera&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
